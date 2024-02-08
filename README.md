@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...
   <body>
 <h1>
-  i am kirubel teshome and am 20 is old
+
 </h1>
-    <p></p>
+
   </body>
 <!---
 kiriopia/kiriopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
